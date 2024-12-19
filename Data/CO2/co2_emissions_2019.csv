@@ -1,201 +1,201 @@
 period,sectorId,sector-name,fuelId,fuel-name,stateId,state-name,value,value-units
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,AK,Alaska,15.068522,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,AK,Alaska,1.685664,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,AK,Alaska,17.522644,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,AK,Alaska,34.27683,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,AL,Alabama,36.945132,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,AL,Alabama,30.226668,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,AL,Alabama,39.082817,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,AL,Alabama,106.254617,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,AR,Arkansas,22.740433,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,AR,Arkansas,22.931031,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,AR,Arkansas,19.401873,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,AR,Arkansas,65.073337,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,AZ,Arizona,42.332037,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,AZ,Arizona,24.645333,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,AZ,Arizona,25.578317,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,AZ,Arizona,92.555687,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,CA,California,239.804014,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,CA,California,2.952393,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,CA,California,115.509948,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,CA,California,358.266355,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,CO,Colorado,36.39809,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,CO,Colorado,26.138245,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,CO,Colorado,29.210821,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,CO,Colorado,91.747156,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,CT,Connecticut,21.098901,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,CT,Connecticut,.082908,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,CT,Connecticut,15.453543,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,CT,Connecticut,36.635352,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,DE,Delaware,8.520978,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,DE,Delaware,.208371,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,DE,Delaware,4.864634,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,DE,Delaware,13.593983,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,FL,Florida,128.055545,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,FL,Florida,22.332465,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,FL,Florida,83.229778,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,FL,Florida,233.617789,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,GA,Georgia,69.082356,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,GA,Georgia,26.116216,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,GA,Georgia,41.298003,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,GA,Georgia,136.496576,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,HI,Hawaii,19.01186,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,HI,Hawaii,1.355891,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,HI,Hawaii,.164879,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,HI,Hawaii,20.532629,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,IA,Iowa,27.72809,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,IA,Iowa,25.470561,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,IA,Iowa,24.107796,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,IA,Iowa,77.306447,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,ID,Idaho,12.900693,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,ID,Idaho,.225975,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,ID,Idaho,6.96058,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,ID,Idaho,20.087248,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,IL,Illinois,84.53726,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,IL,Illinois,56.495691,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,IL,Illinois,62.442141,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,IL,Illinois,203.475091,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,IN,Indiana,49.443406,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,IN,Indiana,78.152084,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,IN,Indiana,48.586335,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,IN,Indiana,176.181825,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,KS,Kansas,24.978409,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,KS,Kansas,18.912784,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,KS,Kansas,16.592975,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,KS,Kansas,60.484168,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,KY,Kentucky,40.920227,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,KY,Kentucky,54.937069,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,KY,Kentucky,18.811912,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,KY,Kentucky,114.669208,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,LA,Louisiana,85.433922,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,LA,Louisiana,8.673221,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,LA,Louisiana,100.816641,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,LA,Louisiana,194.923784,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MA,Massachusetts,40.014714,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MA,Massachusetts,.006787,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MA,Massachusetts,23.316758,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MA,Massachusetts,63.338258,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MD,Maryland,33.037887,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MD,Maryland,7.39176,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MD,Maryland,16.450766,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MD,Maryland,56.880413,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,ME,Maine,11.820099,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,ME,Maine,.206537,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,ME,Maine,2.400668,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,ME,Maine,14.427305,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MI,Michigan,61.173091,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MI,Michigan,42.690697,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MI,Michigan,55.392098,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MI,Michigan,159.255886,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MN,Minnesota,43.789558,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MN,Minnesota,19.616188,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MN,Minnesota,28.695442,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MN,Minnesota,92.101188,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MO,Missouri,43.890836,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MO,Missouri,55.908627,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MO,Missouri,17.193262,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MO,Missouri,116.992725,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MS,Mississippi,27.095807,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MS,Mississippi,4.879617,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MS,Mississippi,30.577041,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MS,Mississippi,62.552464,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MT,Montana,12.230618,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MT,Montana,15.220293,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MT,Montana,4.836568,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MT,Montana,32.28748,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NC,North Carolina,62.345866,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NC,North Carolina,30.423813,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NC,North Carolina,29.850408,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NC,North Carolina,122.620087,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,ND,North Dakota,13.14802,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,ND,North Dakota,35.571869,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,ND,North Dakota,8.435549,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,ND,North Dakota,57.155438,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NE,Nebraska,17.173921,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NE,Nebraska,22.989347,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NE,Nebraska,10.309783,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NE,Nebraska,50.473051,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NH,New Hampshire,10.62831,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NH,New Hampshire,.399911,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NH,New Hampshire,2.90655,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NH,New Hampshire,13.934771,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NJ,New Jersey,57.859572,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NJ,New Jersey,1.317735,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NJ,New Jersey,41.682608,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NJ,New Jersey,100.859915,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NM,New Mexico,18.545605,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NM,New Mexico,14.484326,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NM,New Mexico,15.91396,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NM,New Mexico,48.943892,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NV,Nevada,21.552631,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NV,Nevada,3.554772,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NV,Nevada,16.647906,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NV,Nevada,41.755309,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NY,New York,97.151384,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NY,New York,1.304787,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NY,New York,70.569853,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NY,New York,169.026024,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,OH,Ohio,74.30208,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,OH,Ohio,56.45251,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,OH,Ohio,65.944695,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,OH,Ohio,196.699285,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,OK,Oklahoma,37.003892,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,OK,Oklahoma,8.984232,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,OK,Oklahoma,45.479295,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,OK,Oklahoma,91.467418,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,OR,Oregon,23.368699,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,OR,Oregon,2.622996,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,OR,Oregon,15.855658,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,OR,Oregon,41.847353,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,PA,Pennsylvania,77.247166,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,PA,Pennsylvania,53.811513,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,PA,Pennsylvania,87.699313,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,PA,Pennsylvania,218.757992,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,RI,Rhode Island,5.205029,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,AK,Alaska,14.949233,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,AK,Alaska,1.685702,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,AK,Alaska,17.5226,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,AK,Alaska,34.157534,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,AL,Alabama,36.526814,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,AL,Alabama,30.221573,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,AL,Alabama,39.082824,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,AL,Alabama,105.831211,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,AR,Arkansas,22.446022,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,AR,Arkansas,22.930961,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,AR,Arkansas,19.401854,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,AR,Arkansas,64.778837,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,AZ,Arizona,41.888558,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,AZ,Arizona,24.645335,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,AZ,Arizona,25.57827,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,AZ,Arizona,92.112163,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,CA,California,238.050917,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,CA,California,2.952396,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,CA,California,115.509885,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,CA,California,356.513198,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,CO,Colorado,36.058275,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,CO,Colorado,26.138264,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,CO,Colorado,28.902727,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,CO,Colorado,91.099265,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,CT,Connecticut,36.49494,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,CT,Connecticut,20.958462,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,CT,Connecticut,.0829,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,CT,Connecticut,15.453578,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,DE,Delaware,13.540875,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,DE,Delaware,8.468054,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,DE,Delaware,.2084,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,DE,Delaware,4.864422,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,FL,Florida,232.630532,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,FL,Florida,127.068296,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,FL,Florida,22.332445,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,FL,Florida,83.22979,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,GA,Georgia,68.480904,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,GA,Georgia,26.11626,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,GA,Georgia,41.274469,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,GA,Georgia,135.871633,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,HI,Hawaii,18.971691,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,HI,Hawaii,1.355911,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,HI,Hawaii,.012074,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,HI,Hawaii,20.339677,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,IA,Iowa,27.493283,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,IA,Iowa,25.470591,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,IA,Iowa,22.375289,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,IA,Iowa,75.339164,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,ID,Idaho,12.70858,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,ID,Idaho,.225959,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,ID,Idaho,6.960558,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,ID,Idaho,19.895097,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,IL,Illinois,202.099778,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,IL,Illinois,83.771958,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,IL,Illinois,56.490559,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,IL,Illinois,61.837261,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,IN,Indiana,175.409086,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,IN,Indiana,48.858517,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,IN,Indiana,78.131963,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,IN,Indiana,48.418606,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,KS,Kansas,60.164188,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,KS,Kansas,24.658375,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,KS,Kansas,18.912848,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,KS,Kansas,16.592966,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,KY,Kentucky,40.462103,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,KY,Kentucky,54.93708,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,KY,Kentucky,18.810645,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,KY,Kentucky,114.209828,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,LA,Louisiana,194.484653,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,LA,Louisiana,84.994515,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,LA,Louisiana,8.673274,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,LA,Louisiana,100.816864,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MA,Massachusetts,63.122501,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MA,Massachusetts,39.800861,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MA,Massachusetts,.006826,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MA,Massachusetts,23.314815,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MD,Maryland,56.620696,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MD,Maryland,32.783793,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MD,Maryland,7.391695,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MD,Maryland,16.445207,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,ME,Maine,14.338406,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,ME,Maine,11.731199,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,ME,Maine,.206538,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,ME,Maine,2.400669,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MI,Michigan,158.606496,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MI,Michigan,60.53018,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MI,Michigan,42.684237,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MI,Michigan,55.392079,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MN,Minnesota,91.708377,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MN,Minnesota,43.403196,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MN,Minnesota,19.616105,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MN,Minnesota,28.689076,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MO,Missouri,116.487362,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MO,Missouri,43.38548,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MO,Missouri,55.908655,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MO,Missouri,17.193228,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MS,Mississippi,62.228421,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MS,Mississippi,26.771824,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MS,Mississippi,4.879604,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MS,Mississippi,30.576992,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,MT,Montana,32.136735,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,MT,Montana,12.079954,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,MT,Montana,15.220273,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,MT,Montana,4.836508,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NC,North Carolina,61.826378,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NC,North Carolina,30.423784,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NC,North Carolina,29.850336,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NC,North Carolina,122.100498,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,ND,North Dakota,12.97116,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,ND,North Dakota,35.571835,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,ND,North Dakota,8.14672,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,ND,North Dakota,56.689715,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NE,Nebraska,50.202062,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NE,Nebraska,16.911907,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NE,Nebraska,22.989323,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NE,Nebraska,10.300832,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NH,New Hampshire,13.882216,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NH,New Hampshire,10.575781,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NH,New Hampshire,.399904,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NH,New Hampshire,2.906532,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NJ,New Jersey,100.413006,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NJ,New Jersey,57.41263,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NJ,New Jersey,1.317712,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NJ,New Jersey,41.682664,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NM,New Mexico,48.637155,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NM,New Mexico,18.238905,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NM,New Mexico,14.484317,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NM,New Mexico,15.913933,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NV,Nevada,41.587351,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NV,Nevada,21.384584,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NV,Nevada,3.554824,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NV,Nevada,16.647944,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,NY,New York,168.401234,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,NY,New York,96.526663,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,NY,New York,1.304771,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,NY,New York,70.5698,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,OH,Ohio,195.820764,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,OH,Ohio,73.463228,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,OH,Ohio,56.434122,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,OH,Ohio,65.923413,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,OK,Oklahoma,90.927788,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,OK,Oklahoma,36.464285,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,OK,Oklahoma,8.984218,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,OK,Oklahoma,45.479285,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,OR,Oregon,41.580224,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,OR,Oregon,23.101639,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,OR,Oregon,2.622984,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,OR,Oregon,15.855601,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,PA,Pennsylvania,218.030131,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,PA,Pennsylvania,76.548142,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,PA,Pennsylvania,53.782979,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,PA,Pennsylvania,87.69901,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,RI,Rhode Island,10.33233,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,RI,Rhode Island,5.171249,million metric tons of CO2
 2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,RI,Rhode Island,0,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,RI,Rhode Island,5.161073,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,RI,Rhode Island,10.366102,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,SC,South Carolina,35.868536,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,SC,South Carolina,15.367336,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,SC,South Carolina,18.181833,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,SC,South Carolina,69.417704,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,SD,South Dakota,7.933234,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,SD,South Dakota,3.004455,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,SD,South Dakota,5.042459,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,SD,South Dakota,15.980149,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,TN,Tennessee,49.626503,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,TN,Tennessee,20.737944,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,TN,Tennessee,21.889081,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,TN,Tennessee,92.253528,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,TX,Texas,340.059538,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,TX,Texas,94.930237,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,TX,Texas,248.425474,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,TX,Texas,683.41525,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,UT,Utah,21.49456,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,UT,Utah,25.530949,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,UT,Utah,14.484475,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,UT,Utah,61.509984,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,VA,Virginia,61.03631,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,VA,Virginia,8.029069,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,VA,Virginia,37.729247,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,VA,Virginia,106.794626,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,VT,Vermont,5.265148,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,RI,Rhode Island,5.161082,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,SC,South Carolina,35.459786,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,SC,South Carolina,15.367306,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,SC,South Carolina,18.181787,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,SC,South Carolina,69.008879,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,SD,South Dakota,15.881773,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,SD,South Dakota,7.834818,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,SD,South Dakota,3.00443,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,SD,South Dakota,5.042525,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,TN,Tennessee,91.720006,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,TN,Tennessee,49.093019,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,TN,Tennessee,20.737925,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,TN,Tennessee,21.889062,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,TX,Texas,680.66325,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,TX,Texas,337.311962,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,TX,Texas,94.930259,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,TX,Texas,248.421029,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,UT,Utah,61.293447,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,UT,Utah,21.278084,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,UT,Utah,25.530905,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,UT,Utah,14.484459,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,VA,Virginia,60.491868,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,VA,Virginia,8.023699,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,VA,Virginia,37.720807,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,VA,Virginia,106.236374,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,VT,Vermont,5.988229,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,VT,Vermont,5.232855,million metric tons of CO2
 2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,VT,Vermont,0,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,VT,Vermont,.755526,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,VT,Vermont,6.020674,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,WA,Washington,56.680237,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,WA,Washington,7.730214,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,WA,Washington,19.819575,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,WA,Washington,84.230026,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,WI,Wisconsin,37.077592,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,WI,Wisconsin,26.785123,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,WI,Wisconsin,30.966059,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,WI,Wisconsin,94.828774,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,WV,West Virginia,13.699351,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,WV,West Virginia,59.383945,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,WV,West Virginia,12.366941,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,WV,West Virginia,85.450237,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,WY,Wyoming,11.040071,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,WY,Wyoming,39.227048,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,WY,Wyoming,8.830283,million metric tons of CO2
-2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,WY,Wyoming,59.097402,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,VT,Vermont,.755374,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,WA,Washington,56.209007,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,WA,Washington,7.730162,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,WA,Washington,19.819558,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,WA,Washington,83.758727,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,WI,Wisconsin,36.696167,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,WI,Wisconsin,26.785194,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,WI,Wisconsin,30.966083,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,WI,Wisconsin,94.447444,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,WV,West Virginia,85.249638,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,WV,West Virginia,13.502209,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,WV,West Virginia,59.380528,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,WV,West Virginia,12.366901,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,TO,All Fuels,WY,Wyoming,58.897673,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,PE,Petroleum,WY,Wyoming,10.840397,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,CO,Coal,WY,Wyoming,39.226998,million metric tons of CO2
+2019,TT,Total carbon dioxide emissions from all sectors,NG,Natural Gas,WY,Wyoming,8.830278,million metric tons of CO2
