@@ -78,5 +78,3 @@ Steps:
 <img src="Data/CO2/Visuals_BubblePlot/StatesRank_TotalCO2emission.png" alt="StatesRank_TotalCO2emission.png" style="width:100%; height:auto;">
 
 <img src="Data/CO2/Visuals_BubblePlot/StatesRank_CO2_emission_fromCoal.png" alt="co2 emissions by state in the US" style="width:100%; height:auto;">
-
-- **World Population**: Analysis aids in understanding growth patterns and regional demographics.
